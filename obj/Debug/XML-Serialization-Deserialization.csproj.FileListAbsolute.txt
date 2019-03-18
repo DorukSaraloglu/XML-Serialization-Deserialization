@@ -1,0 +1,20 @@
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\bin\Debug\XML-Serialization-Deserialization.exe.config
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\bin\Debug\XML-Serialization-Deserialization.exe
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\bin\Debug\XML-Serialization-Deserialization.pdb
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.csprojAssemblyReference.cache
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML_Serialization_Deserialization.Form1.resources
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML_Serialization_Deserialization.Properties.Resources.resources
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.csproj.GenerateResource.cache
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.csproj.CoreCompileInputs.cache
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.exe
+E:\1. GRUP\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.pdb
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\bin\Debug\XML-Serialization-Deserialization.exe.config
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\bin\Debug\XML-Serialization-Deserialization.exe
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\bin\Debug\XML-Serialization-Deserialization.pdb
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.csprojAssemblyReference.cache
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML_Serialization_Deserialization.Form1.resources
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML_Serialization_Deserialization.Properties.Resources.resources
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.csproj.GenerateResource.cache
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.csproj.CoreCompileInputs.cache
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.exe
+G:\XML\XML-Serialization-Deserialization\XML-Serialization-Deserialization\obj\Debug\XML-Serialization-Deserialization.pdb
